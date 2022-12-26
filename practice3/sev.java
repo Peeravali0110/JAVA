@@ -9,7 +9,5 @@ class Test{
     }
 	 public static void add(int... arr){
         System.out.println(arr);
-		System.out.println( int arr[0]);
-		System.out.println(arr[0]);
     }
 }
