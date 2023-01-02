@@ -14,7 +14,7 @@ class Aryan implements TestDao{
 public class Test3{
 public static void main(String[] args){
     Aryan a = new Aryan();
-    a.insertRecords();
+    a.insertRecords(); 
     a.setData();
 }
 }
