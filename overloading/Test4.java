@@ -15,10 +15,6 @@ Emp(int id ,String name){
  
  
 }
-
-
-
-
 }
 class Test{
 

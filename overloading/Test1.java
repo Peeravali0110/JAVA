@@ -17,7 +17,7 @@ public static void main(String[] args){
 
 Aryan a1=new Aryan();
 a1.m1(10);
-//a1.m1();
+a1.m1();
 
 
 }	
