@@ -75,14 +75,14 @@ public class oops {
 		a1.setMin_Bal(500.00);
 		
 		a1.cal_Bal();
-		Account_Service.get_Account(a1);
+		//Account_Service.get_Account(a1);
 		CA a2=new CA();
 		a2.setAcc_Id(102);
 		a2.setAcc_Name("Priyanka Gandhi");
 		a2.setAcc_Amount(45000.00);
 		a2.setMin_Bal(25000.00);
 		a2.cal_Bal();
-		Account_Service.get_Account(a2);
+		//Account_Service.get_Account(a2);
 	}
 
 }
