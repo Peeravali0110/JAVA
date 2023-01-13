@@ -7,7 +7,7 @@ name1.concat("gandhi");
 System.out.println(name1);
 
 StringBuffer name2=new StringBuffer("rahul");
-name2.concat("gandhi");
+name2.append("gandhi");
 System.out.println(name2);
 
 

@@ -17,7 +17,7 @@ class Test{
 
 public static void main(String[] args){
 	
-	     int f=1;
+	     int f=1;  // this variable is a local variable we can access directly 
 	
 	Test t1=new Test();
 	 System.out.println(t1.a);
@@ -30,8 +30,7 @@ public static void main(String[] args){
 	 System.out.println(Test.e);
 	 System.out.println(Test.e);
 	 System.out.println(f);
-	// System.out.println(Test.f);
-	 System.out.println(t1.f);
+	
 	
 
 

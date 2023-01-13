@@ -14,7 +14,7 @@ System.out.println(names[i]);
 
 }
 for(int i=names.length-1;i>=0;i=i-1){
-
+//           3                   
 System.out.println(names[i]);
 }	
 
