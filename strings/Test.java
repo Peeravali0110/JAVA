@@ -18,7 +18,7 @@ String name2=new String("peera vali");
 System.out.println(name2);
 name2.concat("syed");
 System.out.println(name2);
-System.out.println(name2.lenght());
+
 
 StringBuffer name3=new StringBuffer("Azma");
 name3.append("shaik");
